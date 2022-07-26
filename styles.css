@@ -1,0 +1,8 @@
+body{
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+}
+.img-roundprofile{
+    border-radius: 9999px;
+    width: 150px;
+}
