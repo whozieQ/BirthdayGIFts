@@ -43,6 +43,9 @@ body{
 
 .gift-section{
     margin-top: 50px;
+    height: 400px;
+    background-image: url("images/gift.png");
+    background-size: cover;
 }
 
 .gift-title{
@@ -57,4 +60,5 @@ body{
     width: 400px;
     border-radius: 10px;
     border: 6px solid white;
+    margin: 0 auto 0 auto;
 }
