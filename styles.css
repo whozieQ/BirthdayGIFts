@@ -17,11 +17,23 @@ body{
     align-items: center;
     justify-content: start;
 }
+#bday-date{
+    margin: 0;
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#bday-age{
+    background: #EFB0C9; 
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
 .img-roundprofile{
     border-radius: 50%;
     width: 150px;
     border: 7px solid #EFB0C9;
 }
-h2, h3, h4{
+ h3{
     background: #EFB0C9;
 }
