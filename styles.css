@@ -1,8 +1,17 @@
+/*
+pink: #EFB0C9
+blue: #a2d2ff
+white: #ffffff 
+*/
+
 body{
     font-family: 'Happy Monkey', cursive;
     text-align: center;
+    color:whitesmoke;
+    background: #a2d2ff;
 }
 .img-roundprofile{
-    border-radius: 9999px;
+    border-radius: 50%;
     width: 150px;
+    border: 7px solid #EFB0C9;
 }
