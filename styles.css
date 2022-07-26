@@ -9,6 +9,7 @@ body{
     text-align: center;
     color:whitesmoke;
     background: #a2d2ff;
+    text-shadow: 0 0 2px black ;
 }
 .img-roundprofile{
     border-radius: 50%;
