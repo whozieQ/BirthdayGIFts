@@ -89,4 +89,9 @@ body{
 }
 .gift-short{
     height: 225px;
+    margin-bottom: 50px;
+}
+.footer{
+    width: 500px;
+    margin: 0 auto 0 auto;
 }
