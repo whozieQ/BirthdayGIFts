@@ -62,3 +62,6 @@ body{
     background-image: url("images/gift.png");
     background-size: cover;
 }
+.gift-img:hover{
+    background-image: url("https://media.giphy.com/media/JltOMwYmi0VrO/giphy.gif");
+}
