@@ -7,9 +7,9 @@ white: #ffffff
 body{
     font-family: 'Happy Monkey', cursive;
     text-align: center;
-    color:whitesmoke;
+    color:black;
     background: #a2d2ff;
-    text-shadow: 0 0 2px black ;
+    text-shadow: 0 0 2px white ;
 }
 
 #header{
@@ -54,7 +54,7 @@ body{
 }
 
 .gift{
-    background:green;
+    background:linear-gradient(green, whitesmoke);
     height:400px;
     width: 400px;
     border-radius: 11px;
@@ -72,14 +72,15 @@ body{
 #img-happy:hover{
     background-image: url("https://media.giphy.com/media/JltOMwYmi0VrO/giphy.gif");
 }
-#img-hot:hover{
+#img-react:hover{
     background-image: url("https://media.giphy.com/media/KWRjfFe4x7nwyh9GlX/giphy.gif");
 }
-#img-genius:hover{
+#img-impression:hover{
     background-image: url("https://media.giphy.com/media/ZuhmYnikJOPPq/giphy.gif");
 }
-#img-badass:hover{
-    background-image: url("https://media.giphy.com/media/VIoJEvVTq8X1R3fqP7/giphy.gif");
+#img-describe:hover{
+    background-image: url("https://media.giphy.com/media/pdWpShca32ZPDrACvj/giphy.gif");
+/*    background-image: url("https://media.giphy.com/media/VIoJEvVTq8X1R3fqP7/giphy.gif");*/
 }
 #img-cheers:hover{
     background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
@@ -96,5 +97,5 @@ body{
     margin: 0 auto 0 auto;
 }
 a{
-    color: white;
+    color: black;
 }
