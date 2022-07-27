@@ -68,3 +68,9 @@ body{
 #img-hot:hover{
     background-image: url("https://media.giphy.com/media/KWRjfFe4x7nwyh9GlX/giphy.gif");
 }
+#img-genius:hover{
+    background-image: url("https://media.giphy.com/media/ZuhmYnikJOPPq/giphy.gif");
+}
+#img-badass:hover{
+    background-image: url("https://media.giphy.com/media/VIoJEvVTq8X1R3fqP7/giphy.gif");
+}
